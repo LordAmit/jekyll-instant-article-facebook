@@ -7,7 +7,7 @@ Installation requires downloading an XML file based on which `RSS Feed` will be 
 
 ### 1. Downloading XML file
 
-Please go to the [Releases](https://github.com/lordamit/jekyll-instant-article-facebook/releases) section. Download the latest instantfeed.xml file.
+Please go to the [Releases](https://github.com/lordamit/jekyll-instant-article-facebook/releases) section. Download the latest release. 
 
 ### 2. Installing jekyll-plugins
 You need the following plugins:
