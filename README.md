@@ -7,7 +7,7 @@ Installation requires downloading an XML file based on which `RSS Feed` will be 
 
 ### 1. Downloading XML file
 
-Please go to the [Releases](https://github.com/lordamit/jekyll-instant-article-facebook/releases) section. Download the latest release. 
+Please go to the [Releases](https://github.com/lordamit/jekyll-instant-article-facebook/releases) section. Download the latest release.
 
 ### 2. Installing jekyll-plugins
 You need the following plugins:
@@ -18,7 +18,7 @@ Based on the settings, your rss feed generator will be able to use default image
 ```yaml
 title: Your website title here
 description: "Your Website description here"
-url: http://lordamit.github.io
+url: http://yoursite.com
 default_bg: sitelogo.png
 baseurl: ""
 owner:
