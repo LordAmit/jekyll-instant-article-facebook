@@ -18,7 +18,9 @@ Based on the settings, your rss feed generator will be able to use default image
 ```yaml
 title: Your website title here
 description: "Your Website description here"
-url: http://yoursite.com
+# change it to your site address.
+# depending on your configuration, you might have to add a / after the address.
+url: http://lordamit.github.io
 default_bg: sitelogo.png
 baseurl: ""
 owner:
@@ -31,14 +33,22 @@ That should be enough. I should emphasize on the fact that these are also depend
 The Instant feed RSS generator is your post aware, and based on the YAML front matter, it will insert / replace values - making your article suitable for Facebook instant article publication.
 
 ```yaml
-#image is used to specify an image for your article. If not used, it will use the default sitelogo specified in _config.yml
+# image is used to specify an image for your article.
+# If not used, it will use the default sitelogo specified in _config.yml
 image: "ImageURL here"
-# based on instantfeedback - it will show like buttons for feedback in your post
+# based on instantfeedback - it will show like buttons for feedback in your post.
+# Enter true or false
 instantfeedback: true|false
 # if you have used any image or contents from others, please give it credit.
 credit: "Credit text here"
 ```
 
-That should do it! Please head over to the [Sites using](https://github.com/lordamit/jekyll-instant-article-facebook/wiki/Sites-using-jekyll-instant-article-facebook) section to include your site's address.
+That should do it! Please head over to the ["Sites using"](https://github.com/lordamit/jekyll-instant-article-facebook/wiki/Sites-using-jekyll-instant-article-facebook) section to include your site's address, so that I can know who are using it. :)
 
 Thank you!
+
+## References
+
+- [Facebook instant article documentation](https://developers.facebook.com/docs/instant-articles/)
+- [Instant article quick start](https://developers.facebook.com/docs/instant-articles/quickstart)
+- [Instant Article publication through RSS](https://developers.facebook.com/docs/instant-articles/publishing/setup-rss-feed)
