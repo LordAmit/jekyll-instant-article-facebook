@@ -8,6 +8,12 @@ Facebook instant article helps you to read articles from Facebook in a special f
 
 This tool generates Facebook instant article compatible RSS feed. It is based on liquid tags, a single xml file and insanely simple!
 
+## Why?
+- Simple - requires **only one liquid based xml file**
+- Low overhead
+- Easy
+- Configurable
+
 ## Features
 By configuring several things in `_config.yml` and in the `front matter YAML` of your article in jekyll, you can offer several things for your reader in the instant version. These are:
 
