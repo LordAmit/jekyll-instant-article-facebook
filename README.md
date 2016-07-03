@@ -1,5 +1,5 @@
 # Facebook Instant Article for Jekyll ⚡ RSS Feed
-## v1.0
+### v1.0
 
 Facebook instant article helps you to read articles from Facebook in a special format that loads blazingly fast in your Facebook app. This requires storing an instant version of your article in Facebook. To submit the articles to Facebook in an automatic way, there are two approaches.
 
