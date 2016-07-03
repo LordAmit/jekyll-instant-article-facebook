@@ -24,6 +24,10 @@ By configuring several things in `_config.yml` and in the `front matter YAML` of
 ## Documentation
 For installation, configuration and other details, please head over to the [Wiki](https://github.com/lordamit/jekyll-instant-article-facebook/wiki) section.
 
+## Contribute
+Got any suggestion? Think you can improve it?
+I would *love* to hear it. Send me a pull request, email me, post in [Issues](https://github.com/lordamit/jekyll-instant-article-facebook/issues) - your choice.
+
 ## For Awesome Users
 Please include your site name in  ["Sites using"](https://github.com/lordamit/jekyll-instant-article-facebook/wiki/Sites-using-jekyll-instant-article-facebook) section to include your site's address. Lets build the community together. :)
 
