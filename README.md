@@ -1,13 +1,13 @@
-# Facebook Instant Article ⚡ RSS Feed - Jekyll
+# Facebook Instant Article for Jekyll ⚡ RSS Feed
 
-Facebook instant article rss feed generator for Jekyll static site generator. It is based on liquid tags and insanely simple!
+Facebook instant article rss feed generator for Jekyll static site. It is based on liquid tags and insanely simple!
 
 ## Setup / Installation / Configuration
 Installation requires downloading an XML file based on which `RSS Feed` will be generated. It is dependent on some `Jekyll-plugins` and some configurations in `_config.yml` file.
 
 ### 1. Downloading XML file
 
-Please go to the [Releases](https://github.com/lordamit/jekyll-instant-article-facebook/releases) section. Download the latest release.
+Please go to the [Releases](https://github.com/lordamit/jekyll-instant-article-facebook/releases) section,  download the latest release and extract it.
 
 ### 2. Installing jekyll-plugins
 You need the following plugins:
