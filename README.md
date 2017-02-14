@@ -17,7 +17,7 @@ This tool generates Facebook instant article compatible RSS feed. It is based on
 ## Features
 By configuring several things in `_config.yml` and in the `front matter YAML` of your article in jekyll, you can offer several things for your reader in the instant version. These are:
 
-- A header `image`, that will বী by default your site logo, or will use an image specified in your front matter.
+- A header `image`, that will be by default your site logo, or will use an image specified in your front matter.
 - `instantfeedback`, that will allow your readers to like images used in your article
 - `credit`, that will append the credit related texts at the end of the instant article, in case you have used materials by others.  
 
