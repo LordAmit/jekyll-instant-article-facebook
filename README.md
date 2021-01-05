@@ -1,3 +1,9 @@
+# Update
+Update: I stopped using instant article. In short, Facebook changed their structure about how instant articles work. You can find more details [here](https://github.com/Automattic/facebook-instant-articles-wp/issues/925#issuecomment-385397596).
+
+Personally, I found Instant Article to be user unfriendly because FB keeps introducing arbitrary changes.
+
+
 # Facebook Instant Article for Jekyll ⚡ RSS Feed
 ### v1.0
 
